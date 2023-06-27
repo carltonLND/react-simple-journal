@@ -22,7 +22,7 @@ function JournalEntry(props: JournalEntryProps): JSX.Element {
       </ul>
       <p>
         <small>
-          Posted: {props.postDate.month} {props.postDate.day},{" "}
+          Postedddd: {props.postDate.month} {props.postDate.day},{" "}
           {props.postDate.year}
         </small>
       </p>
